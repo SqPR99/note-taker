@@ -6,6 +6,8 @@
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Questions](#questions)
+<br>
+Deployed Link: https://note-taker-sqpr99.herokuapp.com/
     
 ## [Description](#table-of-contents)
 This application was made with the intent of creating, editing and deleting notes.
